@@ -191,7 +191,7 @@ Building an intelligent career assistant that combines:
 
 # 👩‍💻 Developer
 
-**Prathibha N**
+**Prathibha Nattha**
 
 Computer Science Engineering Student
 
