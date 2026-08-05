@@ -1,44 +1,42 @@
-# AI Interview Tracker
+# 🚀 AI Interview Tracker
 
-🚀 Full Stack AI-powered Interview Management System
+An intelligent full-stack platform that helps candidates manage job applications, analyze interview performance, and improve placement preparation using AI-powered insights.
 
-## Features
-✅ Track job applications
-✅ Interview scheduling
-✅ Application status dashboard
-✅ AI interview analysis
-✅ Resume improvement suggestions
-✅ Interview performance insights
+---
 
-## Tech Stack
+## 🎯 Problem Statement
 
-Frontend:
-- React.js
-- Vite
-- Tailwind CSS
+During placement preparation, students struggle to manage multiple applications, track interview rounds, identify weak areas, and improve consistently.
 
-Backend:
-- Node.js
-- Express.js
+AI Interview Tracker solves this by providing a centralized platform to manage the complete interview journey.
 
-Database:
-- MongoDB
+---
 
-AI:
-- OpenAI API / ML models
+## ✨ Key Features
 
-## Architecture
+### 📌 Application Management
+- Add and track job applications
+- Monitor application status
+- Manage company details and interview rounds
+- Maintain complete interview history
 
-Frontend → Backend API → Database → AI Engine
+### 🤖 AI Interview Intelligence
+- Analyze interview feedback
+- Identify strengths and weaknesses
+- Generate personalized improvement suggestions
+- Provide preparation recommendations
 
-## Project Structure
+### 📊 Performance Dashboard
+- Track interview progress
+- Visualize preparation statistics
+- Monitor success rate
+- Analyze improvement trends
 
-frontend/
-backend/
+### 📄 Resume Intelligence
+- Resume analysis
+- Skill gap identification
+- Role-based improvement suggestions
 
-## Future Enhancements
+---
 
-- AI mock interviewer
-- Resume scoring
-- Voice interview analysis
-- Recommendation system
+## 🏗️ System Architecture
